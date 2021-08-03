@@ -1,9 +1,24 @@
-### Hi I'm Yuriko 😄
+### Hi there! I'm Yuriko 😄
 
+```javascript
+import React, { useState } from "react";
 
+export default function Yuriko() {
+  const [location, setLocation] = useState("Tokyo");
+  const [title, setTitle] = useState("software engineer");
 
+  return (
+    <div className="profile">
+      <h1>Introduction</h1>
+      <p>
+        Hello, there! I am a {title} based in {location} with background in media and
+        entertainment. 🎥 
+      </p>
+    </div>
+  );
+}
 
-
+```
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuriko-coder&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide=issues&layout=compact)
 
