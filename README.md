@@ -6,12 +6,13 @@ import React, { useState } from "react";
 export default function Yuriko() {
   const [location, setLocation] = useState("Tokyo");
   const [title, setTitle] = useState("software engineer");
+  const [interest, setInterest] = useState("reading books📕 & watching movies🍿")
 
   return (
     <div className="profile">
       <p>
         Hello, there! I am a {title} based in {location} with background in media and
-        entertainment🎥 
+        entertainment🎥 I love {interest}.
       </p>
     </div>
   );
