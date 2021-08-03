@@ -9,7 +9,6 @@ export default function Yuriko() {
 
   return (
     <div className="profile">
-      <h1>Introduction</h1>
       <p>
         Hello, there! I am a {title} based in {location} with background in media and
         entertainment. 🎥 
