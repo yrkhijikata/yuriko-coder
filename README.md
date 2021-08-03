@@ -1,9 +1,11 @@
-### Hi there 👋
+### Hi I'm Yuriko 👋
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuriko-coder&hide=contribs,prs)
 
 
+
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yuriko-coder&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 <!--
 **yuriko-coder/yuriko-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
