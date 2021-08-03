@@ -11,7 +11,7 @@ export default function Yuriko() {
     <div className="profile">
       <p>
         Hello, there! I am a {title} based in {location} with background in media and
-        entertainment. 🎥 
+        entertainment🎥 
       </p>
     </div>
   );
@@ -19,9 +19,16 @@ export default function Yuriko() {
 
 ```
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuriko-coder&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide=issues&layout=compact)
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuriko-coder&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ <img align="left" src="https://github-readme-stats.vercel.app/api?username=yuriko-coder&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide=issues&layout=compact" />
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuriko-coder&theme=radical&layout=compact" />
+
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuriko-coder&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide=issues&layout=compact)
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuriko-coder&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+ 
+ 
 
 <!--
 **yuriko-coder/yuriko-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
